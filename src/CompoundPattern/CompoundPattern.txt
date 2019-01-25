@@ -1,0 +1,8 @@
+CompoundPattern is a design pattern where multiple pattern are used together to solve a general problem
+Super famous compound pattern: MVC!
+
+1. the view and controller implement the strategy pattern
+(the controller is the behaviour of the view (-> see StrategyPattern) which can be changed accordingly)
+2. model uses observer pattern to keep view and controller updated
+(when something in the model (which is the observable) changes the view & the controller (the observers) get notified)
+3. the view itself uses the composite pattern internally to manage windows, buttons etc..
