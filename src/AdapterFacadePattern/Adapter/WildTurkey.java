@@ -1,4 +1,4 @@
-package AdapterFascadePattern.Adapter;
+package AdapterFacadePattern.Adapter;
 
 public class WildTurkey implements Turkey{
     public void gobble(){

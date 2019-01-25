@@ -1,4 +1,4 @@
-package AdapterFascadePattern.Adapter;
+package AdapterFacadePattern.Adapter;
 
 public interface Turkey {
     public void gobble();

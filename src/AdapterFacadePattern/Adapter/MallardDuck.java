@@ -1,4 +1,4 @@
-package AdapterFascadePattern.Adapter;
+package AdapterFacadePattern.Adapter;
 
 public class MallardDuck implements Duck{
     public void quack(){

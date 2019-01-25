@@ -1,4 +1,4 @@
-package AdapterFascadePattern.Fascade;
+package AdapterFacadePattern.Fascade;
 
 public class HomeTheaterFacade {
 }

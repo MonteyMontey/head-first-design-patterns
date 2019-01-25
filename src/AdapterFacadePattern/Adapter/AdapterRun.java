@@ -1,4 +1,4 @@
-package AdapterFascadePattern.Adapter;
+package AdapterFacadePattern.Adapter;
 
 // There are two kinds of adapters, object adapters and class adapters
 // This example is an object adapter
