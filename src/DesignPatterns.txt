@@ -1,0 +1,33 @@
+Design Pattern Definition: A Pattern is a solution to a problem in a context
+
+Creational:
+Singleton, Factory
+
+Behavioral:
+Template Method, Iterator, Command, Observer, State, Strategy
+
+Structural:
+Decorator, Composite, Proxy, Facade, Adapter
+
+
+
+Class Patterns:
+Template, Adapter, Factory Method
+
+Object Patterns:
+All others in this book
+
+
+There are different kind of patterns:
+- architectural patterns
+- application patterns
+- domain-specific patterns
+- business process patterns
+- user interface design patterns
+- organizational patterns
+- user interface design patterns
+
+
+Anti-Patterns:
+"An anti Pattern tells you how to go from a problem to a BAD Solution"
+-> looks like a good solution but is not

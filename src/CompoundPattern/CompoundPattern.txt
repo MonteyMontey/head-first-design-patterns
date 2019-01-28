@@ -6,3 +6,15 @@ Super famous compound pattern: MVC!
 2. model uses observer pattern to keep view and controller updated
 (when something in the model (which is the observable) changes the view & the controller (the observers) get notified)
 3. the view itself uses the composite pattern internally to manage windows, buttons etc..
+
+
+Mnemonic:
+
+Model:
+- contains application logic, classes that keep the data
+
+View:
+- just the code that forms the interface + potential updateView() methods
+
+Controller:
+- implements the behaviour for the view (=> knows what to do with user input), also deals e.g. with http request
